@@ -1,0 +1,22 @@
+
+to check the grammer of the circom
+
+https://github.com/joeltg/lezer-circom
+
+this one is probably the syntex repo for the circom 
+
+https://github.com/joeltg/codemirror-circom/tree/main/packages
+
+
+debugging 
+
+// this one generates the all the set and get values of the circuit
+// need to figure out how we can do that
+
+https://github.com/Changalang1729/circom/blob/master/debug/testLessThan.txt
+
+
+this one is a tookl to compile and check the circuits
+
+https://github.com/fluidex/snarkit2
+

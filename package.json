@@ -1,0 +1,30 @@
+{
+  "name": "test-circom2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@iden3/binfileutils": "^0.0.11",
+    "@phated/unionfs": "^4.5.0",
+    "@wasmer/wasi": "^1.1.2",
+    "@wasmer/wasmfs": "^0.12.0",
+    "circom_runtime": "^0.1.21",
+    "circom2": "^0.2.6",
+    "ffjavascript": "^0.2.56",
+    "memfs": "^3.4.7",
+    "r1csfile": "^0.0.16",
+    "shelljs": "^0.8.5",
+    "shimmer": "^1.2.1",
+    "snarkjs": "^0.4.27",
+    "wasi": "^0.0.6"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
